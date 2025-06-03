@@ -23,13 +23,14 @@ I'm an Information Technology student at Al-Quds University (Dual Studies Progra
   Built bots that learn to win through trial, experimentation, and plesent episodes.
 
 - **🧬 ML Projects**  
+  
+  - **Heart Disease Predictor** - Predicts the likelihood of heart disease from patient data using logistic regression and data preprocessing techniques.
+  - **Bulldozer Price Predictor** - A regression-based machine learning model that predicts the sale price of used bulldozers using historical auction data.
   - **Titanic Survivor Classifier** – classic but clean, with solid preprocessing and model tuning  
-  - **Heart Disease Predictor** - Predicts the likelihood of heart disease based on patient data.
-  - 
 
 ## 🎨 Also Into...
 
-UI/UX design, 3D modeling/printing, photography, hiking, and cooking.
+UI/UX design, 3D modeling/printing, photography, hiking, and continuous learning in areas like DevOps, linear algebra, and system design.
 
 ---
 

@@ -26,7 +26,6 @@ I'm an Information Technology student at Al-Quds University (Dual Studies Progra
   
   - **Heart Disease Predictor** - Predicts the likelihood of heart disease from patient data using logistic regression and data preprocessing techniques.
   - **Bulldozer Price Predictor** - A regression-based machine learning model that predicts the sale price of used bulldozers using historical auction data.
-  - **Titanic Survivor Classifier** – classic but clean, with solid preprocessing and model tuning  
 
 ## 🎨 Also Into...
 

@@ -4,25 +4,28 @@ I'm an Information Technology student at Al-Quds University (Dual Studies Progra
 
 ## 🚀 What I Do
 
-- 🐍 Python enthusiast: Flask, Pandas, Polars, Airflow
-- ☕ Java practitioner: custom data structures, OOP, backend logic
-- 🤖 Machine Learning & Deep Learning: from classic models to reinforcement learning
-- 🌐 Web Development: Flask apps, AJAX interactivity, dynamic UIs
-- 📊 Data Engineering: built real-world data processing pipelines with Polars & CSVs
-- 🌱 Constant learner: Deep Learning, Linear Algebra, DevOps, and a bit of everything
+- **Languages & Frameworks:** Python, Java, Flask, HTML/CSS, JavaScript, AJAX
+- **Data & ML:** Pandas, Polars, Scikit-learn, TensorFlow, Airflow
+- **Concepts:** Data engineering, machine learning, deep learning, backend development, object-oriented programming
 
 ## 🛠️ Projects I’m Proud Of
 
 - **🔧 ProGineer Wafer Data Pipeline**  
-  Developed a production-grade pipeline using Polars, Airflow, and Flask to preprocess and batch wafer data for AI models. I did more than expected — still waiting on that stipend.
+  Developed a production-ready pipeline using Polars, Airflow, and Flask to preprocess wafer data for AI models. Focused on data cleaning, batching, and augmentation.
+
+- **🐕 Dog Breed Classifier**  
+  A deep learning image classification project using convolutional neural networks (CNNs) to identify dog breeds with high accuracy.
+
+- **🍲 Recipe Recommender System**  
+    A recommendation engine that suggests recipes based on ingredients and user preferences using machine learning and vector similarity.
+
+- **🎮 Reinforcement Learning Bot for Tic-Tac-Toe**  
+  Built bots that learn to win through trial, experimentation, and plesent episodes.
 
 - **🧬 ML Projects**  
   - **Titanic Survivor Classifier** – classic but clean, with solid preprocessing and model tuning  
-  - **Reinforcement Learning Bots** – taught a few agents how to win (or at least try)  
-  - A few other models that occasionally outperform random guessing
- 
-- **🍲 Recipe Recommender System**  
-  A personalized recipe suggestion engine using ingredient matching and ML. Advocate for feeding models *and* users.
+  - **Heart Disease Predictor** - Predicts the likelihood of heart disease based on patient data.
+  - 
 
 ## 🎨 Also Into...
 

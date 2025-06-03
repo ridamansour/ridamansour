@@ -1,6 +1,6 @@
 # Hi, I'm Rida Mansour 👋
 
-I'm an Information Technology student at Al-Quds University (Dual Studies Program), blending academics with hands-on industry experience. And occasionally convincing machines to do my math :D.
+I'm an Information Technology student at Al-Quds University (Dual Studies Program), blending academics with hands-on industry experience.
 
 ## 🚀 What I Do
 
@@ -33,5 +33,5 @@ UI/UX design, 3D modeling/printing, photography, hiking, and continuous learning
 
 ---
 
-> “I break things to understand them — and sometimes even put them back together.”
+> “Understanding comes through breaking — improvement comes through rebuilding.”
 

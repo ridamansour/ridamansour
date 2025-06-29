@@ -5,7 +5,7 @@ I'm an Information Technology student at Al-Quds University (Dual Studies Progra
 ## 🚀 What I Do
 
 - **Languages & Frameworks:** Python, Java, Flask, HTML/CSS, JavaScript, AJAX
-- **Data & ML:** Pandas, Polars, Scikit-learn, TensorFlow, Airflow
+- **Data & ML:** Pandas, Polars, Scikit-learn, TensorFlow, PyTorch, Airflow
 - **Concepts:** Data engineering, machine learning, deep learning, backend development, object-oriented programming
 
 ## 🛠️ Projects I’m Proud Of

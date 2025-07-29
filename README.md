@@ -19,7 +19,7 @@ I'm an Information Technology student at Al-Quds University (Dual Studies Progra
 - **🍲 Recipe Recommender System**  
     A recommendation engine that suggests recipes based on ingredients and user preferences using machine learning and vector similarity.
 
-- **🎮 Reinforcement Learning Bot for Tic-Tac-Toe**  
+- **🎮 Reinforcement Learning Agent for Tic-Tac-Toe**  
   Built bots that learn to win through trial, experimentation, and plesent episodes.
 
 - **🧬 ML Projects**  

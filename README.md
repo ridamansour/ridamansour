@@ -1,37 +1,43 @@
 # Hi, I'm Rida Mansour 👋
 
-I'm an Information Technology student at Al-Quds University (Dual Studies Program), blending academics with hands-on industry experience.
-
-## 🚀 What I Do
-
-- **Languages & Frameworks:** Python, Java, Flask, HTML/CSS, JavaScript, AJAX
-- **Data & ML:** Pandas, Polars, Scikit-learn, TensorFlow, PyTorch, Airflow
-- **Concepts:** Data engineering, machine learning, deep learning, backend development, object-oriented programming
-
-## 🛠️ Projects I’m Proud Of
-
-- **🔧 ProGineer Wafer Data Pipeline**  
-  Developed a production-ready pipeline using Polars, Airflow, and Flask to preprocess wafer data for AI models. Focused on data cleaning, batching, and augmentation.
-
-- **🐕 Dog Breed Classifier**  
-  A deep learning image classification project using convolutional neural networks (CNNs) to identify dog breeds with high accuracy.
-
-- **🍲 Recipe Recommender System**  
-    A recommendation engine that suggests recipes based on ingredients and user preferences using machine learning and vector similarity.
-
-- **🎮 Reinforcement Learning Agent for Tic-Tac-Toe**  
-  Built bots that learn to win through trial, experimentation, and plesent episodes.
-
-- **🧬 ML Projects**  
-  
-  - **Heart Disease Predictor** - Predicts the likelihood of heart disease from patient data using logistic regression and data preprocessing techniques.
-  - **Bulldozer Price Predictor** - A regression-based machine learning model that predicts the sale price of used bulldozers using historical auction data.
-
-## 🎨 Also Into...
-
-UI/UX design, 3D modeling/printing, photography, hiking, and continuous learning in areas like DevOps, linear algebra, and system design.
+Information Technology student @ Al-Quds University (Dual Studies Program), blending academics with hands-on industry experience in software engineering, data pipelines, and applied AI. Passionate about solving real-world problems using machine learning, automation, and thoughtful design.
 
 ---
 
-> “Understanding comes through breaking — improvement comes through rebuilding.”
+## 🚀 What I Do
 
+- **Languages & Frameworks:** Python, Java, Kotlin, Flask, FastAPI, Airflow, Docker
+- **AI & Data:** Pandas, Polars, NumPy, Scikit-learn, PyTorch, TensorFlow, SBERT, Elasticsearch
+- **Android & Full-Stack:** Kotlin, Firebase, REST APIs, GitHub CI/CD
+- **Concepts:** ML engineering, data pipelines, NLP, CV, backend development, prompt engineering
+
+---
+
+## 💼 Current Roles
+
+- **Software Engineer Intern @ Sada Intelligent Solutions**  
+  Building a spec-driven Android finance app (Cashbook) using Kotlin + Firebase, leveraging LLMs for development automation.
+
+- **Python Developer Intern @ ProGineer / PDF Solutions (Past)**  
+  Built Polars-based wafer data pipelines and Flask-Airflow plugins; simulated die-cutting and batching processes in Python.
+
+---
+
+## 🛠️ Projects I’m Proud Of
+
+| 📌 Project | 🔍 TL;DR |
+|-----------|---------|
+| **Radar-Based Human Detector** | U-Net segmentation model for radar heatmaps (IOAI 2025) — Top private score: **0.957** |
+| **Chameleon AI Word Guesser** | Offline NLP pipeline using SBERT to guess secret words from icons |
+| **Recipe Recommender System** | TF-IDF + Flask search engine over **1.2M recipes** |
+| **Dog Breed Vision** | CNN Transfer Learning model trained on 10k+ images |
+| **Bulldozer Price Estimator** | XGBoost regression model using auction data |
+| **Tic-Tac-Toe RL Agent** | Q-Learning agent with Tkinter visualization |
+
+---
+
+## 🎯 Interests
+
+3D printing, Kaggle competitions, DevOps, UI/UX.  
+
+> “Understanding comes through breaking — improvement comes through rebuilding.”

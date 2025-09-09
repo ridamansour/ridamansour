@@ -15,8 +15,8 @@ Information Technology student @ Al-Quds University (Dual Studies Program), blen
 
 ## 💼 Current Roles
 
-- **Software Engineer Intern @ Sada Intelligent Solutions**  
-  Building a spec-driven Android finance app (Cashbook) using Kotlin + Firebase, leveraging LLMs for development automation.
+- **Software Engineer Intern @ Sada Intelligent Solutions (Past)**
+  Built a spec-driven Android finance app (Cashbook) using Kotlin + Firebase, leveraging LLMs for development automation.
 
 - **Python Developer Intern @ ProGineer / PDF Solutions (Past)**  
   Built Polars-based wafer data pipelines and Flask-Airflow plugins; simulated die-cutting and batching processes in Python.

@@ -1,6 +1,6 @@
 # Hi, I'm Rida Mansour 👋
 
-Information Technology student @ Al-Quds University (Dual Studies Program), blending academics with hands-on industry experience in software engineering, data pipelines, and applied AI. Passionate about solving real-world problems using machine learning, automation, and thoughtful design.
+Information Technology student @ Al-Quds University (Dual Studies Program), blending academics with hands-on industry experience in software engineering, data pipelines, and applied AI. Passionate about solving real-world problems using machine learning, automation, and data.
 
 ---
 

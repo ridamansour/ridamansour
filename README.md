@@ -38,6 +38,4 @@ Information Technology student @ Al-Quds University (Dual Studies Program), blen
 
 ## 🎯 Interests
 
-3D printing, Kaggle competitions, DevOps, UI/UX.  
-
-> “Understanding comes through breaking — improvement comes through rebuilding.”
+3D printing, Kaggle competitions, MLOps, AgenticAI.

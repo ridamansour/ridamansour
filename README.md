@@ -1,10 +1,10 @@
-# Hi, I'm Rida Mansour 👋
+# Hi, I'm Rida Mansour :D
 
 Information Technology student @ Al-Quds University (Dual Studies Program), blending academics with hands-on industry experience in software engineering, data pipelines, and applied AI. Passionate about solving real-world problems using machine learning, automation, and data.
 
 ---
 
-## 🚀 What I Do
+## What I Do?
 
 - **Languages & Frameworks:** Python, Java, Kotlin, Flask, FastAPI, Airflow, Docker
 - **AI & Data:** Pandas, Polars, NumPy, Scikit-learn, PyTorch, TensorFlow, SBERT, Elasticsearch
@@ -13,7 +13,7 @@ Information Technology student @ Al-Quds University (Dual Studies Program), blen
 
 ---
 
-## 💼 Current Roles
+## Current Roles:
 
 - **Software Engineer Intern @ Sada Intelligent Solutions (Past)**  
   Built a spec-driven Android finance app (Cashbook) using Kotlin + Firebase, leveraging LLMs for development automation.
@@ -23,9 +23,9 @@ Information Technology student @ Al-Quds University (Dual Studies Program), blen
 
 ---
 
-## 🛠️ Projects I’m Proud Of
+## Projects I’m Proud Of:
 
-| 📌 Project | 🔍 TL;DR |
+| Project | TL;DR |
 |-----------|---------|
 | **Radar-Based Human Detector** | U-Net segmentation model for radar heatmaps (IOAI 2025) — Top private score: **0.957** |
 | **Chameleon AI Word Guesser** | Offline NLP pipeline using SBERT to guess secret words from icons |
@@ -36,6 +36,6 @@ Information Technology student @ Al-Quds University (Dual Studies Program), blen
 
 ---
 
-## 🎯 Interests
+## Interests
 
 3D printing, Kaggle competitions, MLOps, AgenticAI.

@@ -8,7 +8,7 @@ Information Technology student @ Al-Quds University (Dual Studies Program), blen
 
 - **Languages & Frameworks:** Python, Java, Kotlin, Flask, FastAPI, Airflow, Docker
 - **AI & Data:** Pandas, Polars, NumPy, Scikit-learn, PyTorch, TensorFlow, SBERT, Elasticsearch
-- **Android & Full-Stack:** Kotlin, Firebase, REST APIs, GitHub CI/CD
+- **Full-Stack:** Java, Firebase, REST APIs, GitHub CI/CD
 - **Concepts:** ML engineering, data pipelines, NLP, CV, backend development, prompt engineering
 
 ---

@@ -27,7 +27,7 @@ Information Technology student @ Al-Quds University (Dual Studies Program), blen
 
 | Project | TL;DR |
 |-----------|---------|
-| **WardrobeGeinie** | A Computer Vision Based RAG for recommening outfits accoding to your occation, style, and weather |
+| **WardrobeGenie** | A Computer Vision Based RAG for recommening outfits accoding to your occation, style, and weather |
 | **Radar-Based Human Detector** | U-Net segmentation model for radar heatmaps (IOAI 2025) — Top private score: **0.957** |
 | **Chameleon AI Word Guesser** | Offline NLP pipeline using SBERT to guess secret words from icons |
 | **Recipe Recommender System** | TF-IDF + Flask search engine over **1.2M recipes** |

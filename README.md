@@ -27,7 +27,7 @@ Information Technology student @ Al-Quds University (Dual Studies Program), blen
 
 | Project | TL;DR |
 |-----------|---------|
-| **WardrobeGenie** | A machine learning-powered fashion recommendation engine that builds a digital wardrobe from user-uploaded clothing, performs semantic vector search with Qdrant, ranks outfits using neural models, and continuously personalizes recommendations through online preference learning. |
+| **WardrobeGenie** | End-to-end AI fashion recommendation system combining computer vision, semantic vector search, neural outfit ranking, and adaptive personalization with FastAPI, PyTorch, Qdrant, Docker, and Apache Airflow. |
 | **Radar-Based Human Detector** | U-Net segmentation model for radar heatmaps (IOAI 2025) — Top private score: **0.957** |
 | **Chameleon AI Word Guesser** | Offline NLP pipeline using SBERT to guess secret words from icons |
 | **Recipe Recommender System** | TF-IDF + Flask search engine over **1.2M recipes** |

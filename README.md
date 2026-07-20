@@ -28,11 +28,8 @@ Information Technology student @ Al-Quds University (Dual Studies Program), blen
 | Project | TL;DR |
 |-----------|---------|
 | **WardrobeGenie** | End-to-end AI fashion recommendation system combining computer vision, semantic vector search, neural outfit ranking, and adaptive personalization with FastAPI, PyTorch, Qdrant, Docker, and Apache Airflow. |
-| **Radar-Based Human Detector** | U-Net segmentation model for radar heatmaps (IOAI 2025) — Top private score: **0.957** |
-| **Chameleon AI Word Guesser** | Offline NLP pipeline using SBERT to guess secret words from icons |
 | **Recipe Recommender System** | TF-IDF + Flask search engine over **1.2M recipes** |
 | **Dog Breed Vision** | CNN Transfer Learning model trained on 10k+ images across 120 dog breeds |
-| **Bulldozer Price Estimator** | XGBoost regression model using auction data |
 | **Tic-Tac-Toe RL Agent** | Q-Learning agent with Tkinter visualization |
 
 ---

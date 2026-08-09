@@ -15,7 +15,7 @@ Machine Learning Engineer and Information Technology student @ Al-Quds Universit
 
 ## Current Roles:
 
-- **Machine Learning Engineering Intern @ DevelopOn**
+- **Machine Learning Engineer Intern @ DevelopOn**
   Improved retrieval accuracy for a production AI agent handling documents across many client projects/apartments; architecting ATS-ML-API, an ML platform for an Applicant Tracking System spanning retrieval, ranking, and recommendation services.
 
 - **Software Engineer Intern @ Sada Intelligent Solutions (Past)**

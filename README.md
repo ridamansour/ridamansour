@@ -62,7 +62,8 @@ I got into horse riding, hiking, and photography around the same time I got into
 ## Stats
 
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
-<p align="center">
+![Top Languages](./profile/top-langs.svg)
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ridamansour&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
 

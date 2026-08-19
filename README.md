@@ -14,7 +14,7 @@ Today I'm an ML Engineer and Information Technology student (Dual Studies) at Al
 * ⚖️ **AI Governance & Engineering Rigor:** Leading compliance and architectural governance for the platform under the **EU AI Act (Annex III High-Risk)** with automated candidate region-gating. Driven by a formal Architecture Decision Record process with **60+ ADRs** governing data ownership, model gating, and infrastructure scaling strategies.
 
 
-* 🎙️ **Conversational Agents & Perception Ensembles:** Architected questions generation methadogly for an AI interview upon job listings and integrated a post-session perception scoring ensemble into an AI Interview Agent. That is including facial expression and emotion classification, gaze tracking for Reading detection, and synthetic text/speech detection.
+* 🎙️ **Conversational Agents & Perception Ensembles:** Architected questions generation methadogly for an AI interview Agent from job disceiptions and integrated a post-session perception scoring ensemble into an AI Interview Agent. That is including facial expression and emotion classification, gaze tracking for reading detection, and synthetic text/speech detection.
 
 
 * 🔍 **Local, LLM-Free Resume Parser:** Engineered a fully local, commercially safe resume-parsing pipeline using layout-aware document extraction, embedding-based section classification, and Named Entity Recognition (NER)—built to handle messy, multi-column PDFs without LLM latency or API costs.

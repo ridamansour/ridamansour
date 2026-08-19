@@ -1,43 +1,62 @@
 # Hi, I'm Rida Mansour :D
 
-Machine Learning Engineer and Information Technology student @ Al-Quds University (Dual Studies Program), blending academics with hands-on industry experience in software engineering, data pipelines, and applied AI. Focused on solving real-world problems through retrieval, ranking, and recommendation systems.
+I started programming when I was 10 years old, on a Raspberry Pi — flashing OSes, breaking terminals, figuring things out — years before I ever took a formal CS class. That "just open it up and see how it works" instinct is still how I approach everything I build.
+
+Today I'm an ML Engineer and Information Technology student (Dual Studies) @ Al-Quds University, back from an exchange semester at Mälardalen University in Sweden. I like taking systems end-to-end — from raw data to something a user can actually touch — and I especially like the retrieval → ranking → recommendation stack: getting the right thing in front of the right person.
 
 ---
 
-## What I Do?
+## What I'm doing right now
+
+- 🏗️ Interning at **DevelopOn**, architecting **ATS-ML-API** and driving the technical direction end-to-end — an ML platform for a recruiting system spanning embedding, retrieval, ranking, and recommendation services, with an EU AI Act–compliant governance layer underneath it. On the AI interview side, I've worked on the computer vision — facial-expression/emotion recognition and gaze-based attention detection — feeding into the scoring ensemble.
+- 🔍 Currently building out a resume-parsing pipeline meant to hold up against really diverse, messy real-world data — layout-aware extraction, embedding-based section classification, NER, no LLM in the loop.
+- 👗 Still building **WardrobeGenie** solo after the course it started in ended, hardening it into something closer to a real product.
+- 📚 Working through DeepLearning.AI's **MLOps specialization**, and picking up **LangChain** (done) and **LangGraph** (in progress) — mostly interested in the "what happens after the model works" problems: drift, monitoring, data validation, and agentic orchestration.
+- 🦉 Rebuilding my Duolingo streak in Hebrew and German from scratch (@ZaRadish) — RIP the 1075-day run, back to day one out of pure stubbornness.
+
+---
+
+## How I work
+
+I gravitate toward owning things fully rather than a narrow slice of them — on WardrobeGenie I ran ML *and* coordinated a 4-person international team; on the resume-parsing pipeline at DevelopOn I went fully local/no-LLM by choice, because I wanted to understand every layer of it myself. I'd rather go deep on one system than skim across five.
+
+---
+
+## Toolbox
 
 - **Languages & Frameworks:** Python, Java, Kotlin, Flask, FastAPI, Airflow, Docker
-- **AI & Data:** Pandas, Polars, NumPy, Scikit-learn, PyTorch, TensorFlow, SBERT, Qdrant, Elasticsearch
-- **Full-Stack:** Java, Firebase, REST APIs, GitHub CI/CD
-- **Concepts:** ML engineering, retrieval & ranking, data pipelines, NLP, CV, backend development
+- **AI & ML:** PyTorch, Scikit-learn, TensorFlow, SBERT, Transformers, RAG (LangChain/LangGraph), Transfer Learning
+- **Retrieval & Data:** Qdrant, Elasticsearch, Pandas, Polars, NumPy, Hybrid Search (BM25 + dense + RRF)
+- **Full-Stack:** Firebase, REST APIs, GitHub CI/CD
+- **Concepts:** ML engineering, retrieval & ranking, NLP, CV, MLOps, agentic AI
 
 ---
 
-## Current Roles:
+## Roles I've held
 
-- **Machine Learning Engineer Intern @ DevelopOn**
-  Improved retrieval accuracy for a production AI agent handling documents across many client projects/apartments; architecting ATS-ML-API, an ML platform for an Applicant Tracking System spanning retrieval, ranking, and recommendation services.
-
-- **Software Engineer Intern @ Sada Intelligent Solutions (Past)**
-  Built a spec-driven Android finance app (Cashbook) using Kotlin + Firebase, leveraging LLMs for development automation.
-
-- **Python Developer Intern @ ProGineer / PDF Solutions (Past)**
-  Built Polars-based wafer data pipelines and Flask-Airflow plugins; simulated die-cutting and batching processes in Python.
+- **ML Platform Engineer Intern @ DevelopOn** — designed a multi-stage candidate-job matching pipeline (embedding → hybrid retrieval → learning-to-rank → cross-encoder reranking), classified the AI interview system under the EU AI Act and built region-aware model gating, and prototyped a GraphSAGE-based two-tower matching model.
+- **Software Engineer Intern @ Sada Intelligent Solutions** — built a spec-driven Android finance app (Kotlin + Firebase), using LLM-assisted development against a Penpot-designed spec.
+- **Data Engineer / Python Developer Intern @ ProGineer (for PDF Solutions, California)** — built Polars/Pandas + Airflow pipelines simulating die-cutting and wafer processes at scale.
+- **3D Printing Freelancer** — since 2020, running my own small print-on-demand service for local clients (Octoprint, Cura, Fusion 360).
 
 ---
 
-## Projects I'm Proud Of:
+## Projects I'm proud of
 
 | Project | TL;DR |
-|-----------|---------|
-| **WardrobeGenie** | End-to-end AI fashion recommendation system combining computer vision, semantic vector search, neural outfit ranking, and adaptive personalization with FastAPI, PyTorch, Qdrant, Docker, and Apache Airflow. |
-| **Radar-Based Human Detection** (IOAI 2025) | U-Net semantic segmentation on radar heatmaps — 0.957 private leaderboard score |
-| **Chameleon AI Word Guesser** (IOAI 2025) | SBERT-based ensemble inference — 89%+ leaderboard score |
-| **Recipe Recommender System** | TF-IDF + Flask search engine over **2M+ recipes** |
-| **Dog Breed Vision** | CNN Transfer Learning model trained across 120 dog breeds |
+|---|---|
+| **WardrobeGenie** | Context-aware fashion recommendation engine — garment detection, a FashionCLIP-distilled visual encoder, Qdrant ANN retrieval, and a Set-Transformer outfit ranker. Led a 4-person international team, then kept building solo. |
+| **Radar-Based Human Detection** (IOAI 2025) | U-Net segmentation on multi-dimensional radar heatmaps to detect humans through clutter — 0.957 private leaderboard score. |
+| **Chameleon AI Word Guesser** (IOAI 2025) | SBERT-based ensemble system decoding secret words from icon sequences, fully offline — 89%+ leaderboard score. |
+| **Recipe Recommender System** | TF-IDF + Flask search engine over 2M+ recipes. |
+| **Dog Breed Vision** | CNN transfer-learning classifier across 120 dog breeds. |
 
 ---
 
-## Interests
+## Outside the terminal
 
-3D printing, Kaggle competitions, MLOps, AgenticAI.
+I got into horse riding, hiking, and photography around the same time I got into ML — I think all of it comes from the same impulse to notice detail. I also self-host a home server (OpenMediaVault) for fun, mostly as an excuse to keep tinkering with infra outside of work. When I'm not building things, I'm usually reading, cooking, or working through courses outside my core field to broaden my knowledge — Stanford's CS183B and CS193P lecture recordings included.
+
+---
+
+📫 Reach me: ridamansour111@gmail.com · [LinkedIn](https://www.linkedin.com/in/rida-mansour-849778250/)

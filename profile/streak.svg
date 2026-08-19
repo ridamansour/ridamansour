@@ -23,7 +23,7 @@
                 <!-- Total Contributions big number -->
                 <g transform='translate(82.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#151515' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 1; opacity: 1;'>
-                        557
+                        558
                     </text>
                 </g>
 
@@ -78,7 +78,7 @@
                 <!-- Longest Streak big number -->
                 <g transform='translate(412.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#151515' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 1; opacity: 1;'>
-                        5
+                        13
                     </text>
                 </g>
 
@@ -92,10 +92,17 @@
                 <!-- Longest Streak range -->
                 <g transform='translate(412.5, 114)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#464646' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 1; opacity: 1;'>
-                        Jun 7, 2025 - Jun 11, 2025
+                        Jul 29 - Aug 10
                     </text>
                 </g>
             </g>
-            
+            <g style='isolation: isolate'>
+                <!-- Excluded Days -->
+                <g transform='translate(5,187)'>
+                    <text stroke-width='0' text-anchor='right' fill='#464646' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='10px' font-style='normal' style='opacity: 1; opacity: 1;'>
+                        * Excluding Fri, Sat
+                    </text>
+                </g>
+            </g>
         </g>
     </svg>

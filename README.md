@@ -58,5 +58,14 @@ I gravitate toward owning things fully rather than a narrow slice of them — on
 I got into horse riding, hiking, and photography around the same time I got into ML — I think all of it comes from the same impulse to notice detail. I also self-host a home server (OpenMediaVault) for fun, mostly as an excuse to keep tinkering with infra outside of work. When I'm not building things, I'm usually reading, cooking, or working through courses outside my core field to broaden my knowledge — Stanford's CS183B and CS193P lecture recordings included.
 
 ---
+ 
+## Stats
+ 
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ridamansour&theme=dark&timezone=UTC%2B3" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ridamansour&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+</p>
+
+---
 
 📫 Reach me: ridamansour111@gmail.com · [LinkedIn](https://www.linkedin.com/in/rida-mansour-849778250/)

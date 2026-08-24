@@ -31,7 +31,7 @@ Today I'm an ML Engineer and Information Technology student (Dual Studies) at Al
 
 ## How I work
 
-I gravitate toward total system ownership over managing a narrow slice. Whether designing a Medallion data lake architecture with automated quality gates, prototyping graph neural network (GNN) matching models, or authoring 60+ ADRs to justify system boundaries, I prefer to go deep on one platform than skim across five.
+I gravitate toward total system ownership over managing a narrow slice. Whether designing a Medallion data lake architecture with automated quality gates, prototyping graph neural network (GNN) matching models, or authoring 80+ ADRs to justify system boundaries, I prefer to go deep on one platform than skim across five.
 
 ---
 

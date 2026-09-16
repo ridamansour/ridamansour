@@ -40,7 +40,7 @@ I gravitate toward total system ownership over managing a narrow slice. Whether 
 
 ## Roles I've held
 
-* **ML Platform Engineer Intern @ DevelopOn** *(Jun 2026 – Sep 2026)* — Architected a scale-ready ATS ML API monorepo, designed multi-stage hybrid candidate-job matching pipelines combining dense/sparse retrieval, Learning-to-Rank, and Cross-Encoder reranking, and implemented automated candidate region-gating for EU AI Act compliance. Established architectural governance through 60+ ADRs covering data ownership, model gating, service boundaries, and infrastructure scaling strategies. Also prototyped graph neural network matching models.
+* **ML Platform Engineer Intern @ DevelopOn** *(Jun 2026 – Sep 2026)* — Architected a scale-ready ATS ML API monorepo, designed multi-stage hybrid candidate-job matching pipelines combining dense/sparse retrieval, Learning-to-Rank, and Cross-Encoder reranking, and implemented automated candidate region-gating for EU AI Act compliance. Established architectural governance through 80+ ADRs covering data ownership, model gating, service boundaries, and infrastructure scaling strategies. Also prototyped graph neural network matching models.
 
 * **Software Engineer Intern @ Sada Intelligent Solutions** *(Jul 2025 – Sep 2025)* — Developed a spec-driven Android finance app (Kotlin + Firebase) using LLM-assisted development against a Penpot UI/UX design.
 
